@@ -4,12 +4,12 @@ Este repositório contém o trabalho da disciplina de Fundamentos de Inteligênc
 
 ## Integrantes
 
-* Lucas da Silva Moura
-* Luiz Felipe Nery Soares
-* Rafael Emanuel Dantas Viana
-* Sarah Campos Fernandes Lima
-* Sofia da Silva Souza
-* Victor José Nunes Kossmann
+* Lucas da Silva Moura - lucas.dasilvamoura@icomp.ufam.edu.br
+* Luiz Felipe Nery Soares - luiz.nery@icomp.ufam.edu.br
+* Rafael Emanuel Dantas Viana - rafael.emanuel@icomp.ufam.edu.br
+* Sarah Campos Fernandes Lima - sarah.lima@icomp.ufam.edu.br
+* Sofia da Silva Souza - sofia.souza@icomp.ufam.edu.br
+* Victor José Nunes Kossmann - victor.kossmann@icomp.ufam.edu.br
 
 ---
 
